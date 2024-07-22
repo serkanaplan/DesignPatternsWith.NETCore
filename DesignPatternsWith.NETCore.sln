@@ -7,6 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseProject", "BaseProject\
 EndProject
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp.Strategy.DP", "WebApp.Strategy.DP\WebApp.Strategy.DP.csproj", "{88C8CED2-7DD0-4B3F-93C0-62E955A61DD6}"
 =======
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp.Template.DP", "WebApp.Template.DP\WebApp.Template.DP.csproj", "{873576D8-E0D7-4DB0-9FB4-976EC9FC9416}"
@@ -14,6 +15,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp.Template.DP", "WebAp
 =======
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp.Command.DP", "WebApp.Command.DP\WebApp.Command.DP.csproj", "{50503B23-2ED1-493C-86D7-E929D91C6BD2}"
 >>>>>>> ch_4_command_pattern
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp.Observer.DP", "WebApp.Observer.DP\WebApp.Observer.DP.csproj", "{03446E79-8681-4822-98C4-CD34B4EEDC65}"
+>>>>>>> ch_5_observer_pattern
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -28,6 +32,7 @@ Global
 		{44DC4C45-EDE0-4DCD-A79A-C86C56679A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44DC4C45-EDE0-4DCD-A79A-C86C56679A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44DC4C45-EDE0-4DCD-A79A-C86C56679A09}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 		{88C8CED2-7DD0-4B3F-93C0-62E955A61DD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -46,5 +51,11 @@ Global
 		{50503B23-2ED1-493C-86D7-E929D91C6BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50503B23-2ED1-493C-86D7-E929D91C6BD2}.Release|Any CPU.Build.0 = Release|Any CPU
 >>>>>>> ch_4_command_pattern
+=======
+		{03446E79-8681-4822-98C4-CD34B4EEDC65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03446E79-8681-4822-98C4-CD34B4EEDC65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03446E79-8681-4822-98C4-CD34B4EEDC65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03446E79-8681-4822-98C4-CD34B4EEDC65}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> ch_5_observer_pattern
 	EndGlobalSection
 EndGlobal
